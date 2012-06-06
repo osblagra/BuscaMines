@@ -16,7 +16,7 @@ public class BuscaMines {
 	/************		FUNCIÓ PRINCIPAL		********************/
 	/***************************************************************/
 	public static void main(String[] args) {
-		
+		Put.ln("Prova de versió 1.1");
 		int colu, fila;
 		
 		do{
